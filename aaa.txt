@@ -1,9 +1,0 @@
-MultiBranch Pipeline
-**************************
-docker network create jenkins
-
-0218ef73a9a481fa4a29bc8f19fe3623576899383cf164b8ac4e4d2dc3e59e18
-
-Jenkinsaccess
-
-192.168.89.129
